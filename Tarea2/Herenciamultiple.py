@@ -16,7 +16,7 @@ class CuadradoColorido(Forma, Color):
         super().pintar()
 
 
-cuadrado_colorido = CuadradoColorido("Rojo")
+cuadrado_colorido = CuadradoColorido("Azul")
 
 cuadrado_colorido.forma_y_color()
 
